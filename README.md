@@ -6,23 +6,23 @@ Dana would like to provide a more in-depth analysis of UFO sightings by allowing
 
 ## Filtering
 
-Visit UFO Finder
+### Visit UFO Finder
 
 ![image](https://user-images.githubusercontent.com/108442512/205762221-f9074ee3-5ffc-4b90-a646-7d987e884d3a.png)
 
-Enter your desired filter id’s
+### Enter your desired filter id’s
 
 ![image](https://user-images.githubusercontent.com/108442512/205762445-a248455c-0a3e-4255-95e2-47fb324558c9.png)
 
-Multiple criteria can be used
+### Multiple criteria can be used
 
 ![image](https://user-images.githubusercontent.com/108442512/205762516-016b1368-647e-43d0-b3c6-c1d9bd5491e4.png)
 
-Review Results
+### Review Results
 
 ![image](https://user-images.githubusercontent.com/108442512/205762358-75989454-3501-4d9a-8121-375215509d60.png)
 
-Reset Filter by clicking “UFO Sightings”
+### Reset Filter by clicking “UFO Sightings”
 
 ![image](https://user-images.githubusercontent.com/108442512/205762390-4d2bf29c-1e06-466f-b7c5-7b75c4b32136.png)
 
